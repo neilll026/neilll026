@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil
 - 👀 I’m interested in learning new techonologies
 - 🌱 I’m currently learning web development
-- 📫 How to reach  mail me at nikhilshindeoff@gmail.com 
+- 📫 mail me at nikhilshindeoff@gmail.com 
 
 <!---
 neilll026/neilll026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
