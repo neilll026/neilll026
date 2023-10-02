@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nikhil
 - 👀 I’m interested in learning new techonologies
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach  mail me at nikhilshindeoff@gmail.com 
 
 <!---
